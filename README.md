@@ -2,7 +2,7 @@
 
 A light‑weight Caesar Cipher encoder.  
 The shift value can be changed directly in the code.
-Made for practice
+Made for practice.
 
 ### **Usage**
 - Run the program as‑is  
